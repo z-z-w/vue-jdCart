@@ -1,0 +1,28 @@
+{
+  "allShop": {
+    "totalMoney": 0,
+    "shopList": [
+      {
+        "shopId": "1001",
+        "shopName": "海信（Hisense）LED55E7C 55英寸 超高清4K 曲面电视 HDR 丰富影视教育资源（黑色）",
+        "shopPrice": 3798.00,
+        "shopNumber": 1,
+        "shopImage": "images/img_01.jpg"
+      },
+      {
+        "shopId": "1002",
+        "shopName": "海信（Hisense）1.5匹 定速 冷暖 节能 空调挂机（KFR-35GW/ER22N3(1L04)）",
+        "shopPrice": 1999.00,
+        "shopNumber": 1,
+        "shopImage": "images/img_02.jpg"
+      },
+      {
+        "shopId": "1003",
+        "shopName": "松下（Panasonic）吸顶灯LED遥控调光调色客厅卧室灯具金色铁艺装饰框HHLAZ1821 ",
+        "shopPrice": 328.00,
+        "shopNumber": 1,
+        "shopImage": "images/img_03.jpg"
+      }
+    ]
+  }
+}
